@@ -1,6 +1,6 @@
 # Introduction to R & RStudio
 
-Repository containing the materials for the Introduction to R &amp; RStudio (2026/27). 
+Repository containing the materials for the **Research Unpluggedt: Introduction to R &amp; RStudio** (2026/27) 
 
 
 This 30 minute session we will cover a brief session for an Introduction to R & RStudio and how we can use this for data visualisations. We begin by providing what R and Rstudio, and then we will introduce specific fundamentals packages used for data science across social sciences. We then will move on an show some examples 
