@@ -7,6 +7,7 @@ author: |
   |
   | \faEnvelopeO \  \texttt{sam.vickers@wrexham.ac.uk}
   | \faEnvelopeO \  \texttt{psychology.technician@wrexham.ac.uk}
+  | \faEnvelopeO \  \texttt{}
 fontsize: 8pt
 output:
  beamer_presentation:
@@ -134,8 +135,6 @@ ggplot(ChickWeight, aes(x = Time, y = weight, group = Chick, color = Diet)) +
 # Facet Plots
 
 ```{r, echo=FALSE, warning=FALSE, message = FALSE}
-
-ChickWeight
 ggplot(ChickWeight, aes(x = Time, y = weight, group = Chick, colour = Diet)) +
   geom_line() +
   geom_point() +
