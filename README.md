@@ -18,7 +18,7 @@ Teaching will be done via Microsoft Teams and invites will be sent to staff and 
 
 ## Assumed Quantitative & Computer Knowledge 
 
-We will assume no familiratity with statistics and mathermatical concepts. The session is purely introductory for staff and PhD students who are interested in incorporating this application for their statistical analysis toolkit. 
+We will assume no familiaritity with statistics and mathematical concepts. The session is purely introductory for staff and PhD students who are interested in incorporating this application for their statistical analysis toolkit. 
 
 ## Equipment & Software Requirements 
 
